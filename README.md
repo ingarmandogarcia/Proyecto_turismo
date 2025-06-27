@@ -1,9 +1,9 @@
 # Sistema de Agencia de Turismo
 Agregando una linea de operacion 2025_001
 Tercer y último trabajo práctico realizado para el curso _Desarrollo Web Fullstack con Java_, dictado por PoloTic y Silicon Misiones.
-
+# Sistema de Agencia de Turismo se realiza cambio en readme 
 El trabajo consistió en la construcción de una aplicación java web que listara, registrara, modificara y eliminara las diferentes entidades de una agencia de turismo.
-
+# Comentarios readme 
 📄 [Consigna del TP](https://drive.google.com/file/d/1Ta7UbM7JQrGh8CbyqJ6DquCldM7j1Ctm/view?usp=sharing)
 
 📄 [Modelo UML](https://drive.google.com/file/d/1An8eVDB-ZinBR6Pjmf7Kdt-gW51ZbTfw/view?usp=sharing)
